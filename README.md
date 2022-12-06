@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zarlicho A.K.A Fatihurisqi</h1>
+<h1 align="center">Hi 👋, I'm zarlicho A.K.A Azis arianudin</h1>
 <h3 align="center">A passionate Automation developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarlicho&label=Profile%20views&color=0e75b6&style=flat" alt="zarlicho" /> </p>
