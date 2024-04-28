@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarlicho" alt="zarlicho" /></a> </p>
 
-- 🤝I currently work as a freelancer [upwork](https://www.upwork.com/workwith/azisarianudin)
+- 🤝I currently work as a freelancer [upwork]([https://www.upwork.com/workwith/azisarianudin](https://www.upwork.com/freelancers/~0166d91fb492f85c45?mp_source=share))
 
 - 🌱 I’m currently learning **python,selenium,streamlit,pandas, etc**
 
